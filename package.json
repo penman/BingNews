@@ -13,6 +13,7 @@
    ],
    "author": "Ross Penman",
    "license": "BSD-2-Clause",
+   "repository": "https://github.com/rosspenman/BingNews.git",
    "dependencies": {
       "request": "~2.27.0"
    }
